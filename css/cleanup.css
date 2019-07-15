@@ -2,17 +2,17 @@
   display: none;
 }
 #tag-2 {
-    background: none;
+    display: none;
 }
 #tag-3 .slick.wicked {
-    background:none;
+    display:none;
 }
 .parent #tag-5 .slick{
-    background: none;
+    display: none;
 }
 .parent #tag-6 {
-    background: none;
+    display: none;
 }
 .parent #tag-7 .slick {
-    background: none;
+    display: none;
 }
