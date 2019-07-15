@@ -1,18 +1,21 @@
 #wall .tag-1 {
   display: none;
 }
-#tag-2 {
+body #wall #tag-2 {
     display: none;
 }
-#tag-3 .slick.wicked {
+body div#wall #tag-3.slick{
     display:none;
 }
-.parent #tag-5 .slick{
+div#wall .parent #tag-4 {
     display: none;
 }
-.parent #tag-6 {
+body div#wall .parent #tag-5.slick {
     display: none;
 }
-.parent #tag-7 .slick {
+body div#wall div.parent div:last-child div#tag-6 {
     display: none;
+}
+html body div#wall div.parent div > #tag-7.slick {
+  display: none;
 }
